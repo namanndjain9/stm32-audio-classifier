@@ -1,7 +1,4 @@
 fastapi
 uvicorn[standard]
 numpy
-# Add your ML libraries here, e.g.:
-tensorflow-lite
-librosa
-# or whatever you use for audio classification
+python-multipart
