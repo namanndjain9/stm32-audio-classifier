@@ -34,4 +34,4 @@ def home():
         "status": "online",
         "message": "STM32 Audio Classifier Backend is running",
         "endpoint": "/api/predict"
-    }s
+    }
